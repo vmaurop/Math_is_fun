@@ -1,4 +1,4 @@
-//https://projecteuler.net/archives
+
 package Calculations;
 
 import java.math.BigInteger;
