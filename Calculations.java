@@ -1,5 +1,5 @@
 
-package Calculations;
+//package Calculations;
 
 
 import java.util.Date;
@@ -42,7 +42,7 @@ public class Calculations
             
             
             
-          //      a.gtd_an();
+         
           // Euler1 x = new Euler1();
              //   x.palindrome();
             //  System.out.println(x.primary_nymbers());
@@ -60,6 +60,7 @@ public class Calculations
              // x.Large_non_Mersenne_prime();
            //  Euler2 y = new Euler2();
            //  y.distinctpowers();
+       // y.digit_1000_Fibonacci_number();
             
                     
     }
