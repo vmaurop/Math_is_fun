@@ -45,7 +45,7 @@ public class Calculations
          
           // Euler1 x = new Euler1();
              //   x.palindrome();
-            //  System.out.println(x.primary_nymbers());
+            //  x.primary_nymbers();
              //  x.multiples_of_3_5();
              // x.primary_nymbers();
             // x.sum_square_difference();
@@ -61,6 +61,9 @@ public class Calculations
            //  Euler2 y = new Euler2();
            //  y.distinctpowers();
        // y.digit_1000_Fibonacci_number();
+        
+          //HackerRank1 w = new HackerRank1();
+          //w.Mini_Max_Sum();
             
                     
     }
