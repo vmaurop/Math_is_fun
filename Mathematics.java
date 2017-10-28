@@ -8,17 +8,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Timer;
 
-public class Mathematics extends Gcd_Lcm
+public class Mathematics
 {        
     
-    public void gtd_an()  /*οταν θελω να συεχισω σε μια void συναρτηση*/
-    {
-        super.gdt_and_lcm();
-        int x;
-        x=gcd+1;
-        System.out.println(x);
-        
-    }
+ 
     
     public static BigInteger factorial(int n)                         
     {
@@ -82,7 +75,7 @@ public class Mathematics extends Gcd_Lcm
             
     }
     
-    public  void exponent_root(int n,double a)   //n-osti riza enos a arithmou...
+    public  void exponent_root(int n,double a)   //n_th root of the number
     {
         
         if (n>0&&a>=0)
