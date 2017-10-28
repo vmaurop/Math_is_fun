@@ -12,20 +12,20 @@ prime numbers
 factors
 A Pythagorean triplet
 Fibonacci e.t.c.
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 Statistic.java
 calculates mean,median,Standard Deviation,Variance
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 Gcd_Lcm.java
 Greatest Common Divisor and Lowest Common Multiple 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 Probabilities.java
 
 ask us to give the plurality of numbers. The width from the smaller to the larger
 Shows random numbers based on these and calculates the probability of each of these random numbers
 
 
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 Mathematics.java
 
 factorial for any large numbers(big integer)
